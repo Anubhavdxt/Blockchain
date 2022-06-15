@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/Anubhavdxt/Blockchain/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Markdown
+## Blockchain Basics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Blockchain Defined](Blockchain-Basics\Blockchain-Defined.md)
+- [Blockchain Structure](Blockchain-Basics\Blockchain-Structure.md)
+- [Blockchain Basic Operations](Blockchain-Basics\Basic-Operations.md)
 
 ```markdown
 Syntax highlighted code block
