@@ -1,6 +1,6 @@
 # Dive into Blockchain & Web3
 
-## Contents
+<!-- ## Contents
 
 1. [Blockchain Basics](#blockchain-basics)
     1. [Blockchain Defined](#blockchain-defined)
@@ -11,7 +11,7 @@
     1. [Ethereum Structure](#ethereum-blockchain)
     2. [Ethereum Operations](#ethereum-operations)
     3. [Incentive Model](#incentive-model)
-    4. [Smart Contracts](#smart-contracts)
+    4. [Smart Contracts](#smart-contracts) -->
 
 ## Blockchain Basics
 
